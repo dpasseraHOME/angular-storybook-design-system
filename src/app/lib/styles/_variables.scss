@@ -1,0 +1,172 @@
+// Colors
+// -----------------------------------------------------------------------------
+
+// Greys
+$grey-0: #27323f;
+$grey-1: #3e4a58;
+$grey-2: #576370;
+$grey-3: #586471;
+$grey-4: #5c6876;
+$grey-5: #5d6f83;
+$grey-6: #687e95;
+$grey-7: #7a8fa5;
+$grey-8: #b7c1cd;
+$grey-9: #fafcfe;
+$grey-9a: #f9fafc;
+$grey-9b: #fafcfe;
+
+// White
+$white: #ffffff;
+
+// Dark Grey
+$dark-grey: #30333d;
+
+// Blues (Secondary)
+$blue-0: #1e6db0;
+$blue-1: #267ac5;
+$blue-2: #3a9bfc;
+$blue-2-65: #3a9bfc;
+$blue-3: #c4e1fe;
+$blue-4: #ebf5ff;
+
+// Accent Colors
+// Orange
+$orange-0: #f29049;
+
+// Red
+$red-1: #cc4343;
+$red-2: #da3838;
+$red-3: #eb3c3c;
+
+// Yellow
+$yellow-0: #f2c349;
+$yellow-1: #f9f1df;
+
+// Green
+$green-0: #3d996d;
+$green-1: #47b27f;
+$green-2: #51cc91;
+$green-3: #5be5a3;
+$green-4: #96faca;
+
+// Spot Colors
+$spot-grey-0b: #2f353c;
+$spot-grey-0c: #383b45;
+$spot-grey-0d: #373e46;
+$spot-grey-1b: #3e4752;
+$spot-grey-1c: #3d4854;
+$spot-grey-7b: #9297a9;
+$spot-blue-grey-0: #a1b8ce;
+$spot-blue-grey-1: #adc0d3;
+$spot-blue-grey-2: #c4d4e2;
+$spot-blue-grey-3: #bdd4ee;
+$spot-dark-grey: #30333d;
+
+// Chart Colors
+$chart-1: #84d2e4;
+$chart-2: #ff8080;
+$chart-3: #74d6a7;
+$chart-4: #f7d3a7;
+$chart-5: #a9b0eb;
+$chart-6: #c0c9d4;
+
+// Typography
+// -----------------------------------------------------------------------------
+
+// Font Family
+$font-family-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+// Headlines
+$h1-font-size: 24px;
+$h1-font-weight: 700;
+$h1-line-height: 32px;
+
+$h2-font-size: 20px;
+$h2-font-weight: 700;
+$h2-line-height: 28px;
+
+$h3-font-size: 20px;
+$h3-font-weight: 600;
+$h3-line-height: 28px;
+
+$h4-font-size: 16px;
+$h4-font-weight: 600;
+$h4-line-height: 24px;
+
+$h5-font-size: 14px;
+$h5-font-weight: 600;
+$h5-line-height: 20px;
+
+$h6-font-size: 14px;
+$h6-font-weight: 500;
+$h6-line-height: 20px;
+
+$h7-font-size: 12px;
+$h7-font-weight: 400;
+$h7-line-height: 16px;
+
+$h8-font-size: 10px;
+$h8-font-weight: 600;
+$h8-line-height: 14px;
+
+// Labels
+$label-1-font-size: 15px;
+$label-1-font-weight: 600;
+$label-1-line-height: 16px;
+
+$label-2-font-size: 14px;
+$label-2-font-weight: 500;
+$label-2-line-height: 16px;
+
+$label-3-font-size: 14px;
+$label-3-font-weight: 500;
+$label-3-line-height: 18px;
+
+$label-4-font-size: 13px;
+$label-4-font-weight: 500;
+$label-4-line-height: 18px;
+
+$label-5-font-size: 13px;
+$label-5-font-weight: 600;
+$label-5-line-height: 20px;
+
+$label-5e-font-size: 13px;
+$label-5e-font-weight: 700;
+$label-5e-line-height: 20px;
+
+$label-6-font-size: 13px;
+$label-6-font-weight: 400;
+$label-6-line-height: 20px;
+
+$label-7-font-size: 13px;
+$label-7-font-weight: 400;
+$label-7-line-height: 18px;
+
+$label-8-font-size: 12px;
+$label-8-font-weight: 600;
+$label-8-line-height: 16px;
+
+$label-nav-1-font-size: 16px;
+$label-nav-1-font-weight: 700;
+$label-nav-1-line-height: 24px;
+
+$label-nav-2-font-size: 16px;
+$label-nav-2-font-weight: 600;
+$label-nav-2-line-height: 24px;
+
+// Body Text
+$body-base-font-size: 13px;
+$body-base-font-weight: 400;
+$body-base-line-height: 19px;
+
+$body-base-emphasized-font-size: 13px;
+$body-base-emphasized-font-weight: 500;
+$body-base-emphasized-line-height: 19px;
+
+$body-base-strong-font-size: 13px;
+$body-base-strong-font-weight: 600;
+$body-base-strong-line-height: 19px;
+
+$body-blurb-font-size: 14px;
+$body-blurb-font-weight: 400;
+$body-blurb-line-height: 20px;

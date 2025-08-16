@@ -7,10 +7,35 @@ const preview: Preview = {
   parameters: {
     controls: {
       matchers: {
-       color: /(background|color)$/i,
-       date: /Date$/i,
+        color: /(background|color)$/i,
+        date: /Date$/i,
       },
     },
+    options: {
+      storySort: {
+        order: [
+          'NM Library',
+          [
+            'Colors',
+            [
+              'Primary',
+              'Secondary', 
+              'Accent',
+              'Spot',
+              'Chart'
+            ],
+            'Typography',
+            [
+              'Headlines',
+              'Labels',
+              'Body'
+            ]
+          ],
+          'Example',
+          '*'
+        ]
+      }
+    }
   },
 };
 

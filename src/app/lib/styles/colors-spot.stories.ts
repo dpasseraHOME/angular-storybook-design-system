@@ -72,7 +72,7 @@ import { Component } from '@angular/core';
 export class SpotColorPaletteComponent {}
 
 const meta: Meta<SpotColorPaletteComponent> = {
-  title: 'NM Library/Colors/Spot',
+  title: 'NM Library/Colors/4. Spot',
   component: SpotColorPaletteComponent,
   tags: ['autodocs'],
 };

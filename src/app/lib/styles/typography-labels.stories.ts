@@ -71,7 +71,7 @@ import { Component } from '@angular/core';
 export class TypographyLabelsComponent {}
 
 const meta: Meta<TypographyLabelsComponent> = {
-  title: 'NM Library/Typography/Labels',
+  title: 'NM Library/Typography/2. Labels',
   component: TypographyLabelsComponent,
   tags: ['autodocs'],
 };

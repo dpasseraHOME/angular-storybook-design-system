@@ -72,7 +72,7 @@ import { Component } from '@angular/core';
 export class AccentColorPaletteComponent {}
 
 const meta: Meta<AccentColorPaletteComponent> = {
-  title: 'NM Library/Colors/Accent',
+  title: 'NM Library/Colors/3. Accent',
   component: AccentColorPaletteComponent,
   tags: ['autodocs'],
 };

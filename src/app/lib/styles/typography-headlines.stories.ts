@@ -56,7 +56,7 @@ import { Component } from '@angular/core';
 export class TypographyHeadlinesComponent {}
 
 const meta: Meta<TypographyHeadlinesComponent> = {
-  title: 'NM Library/Typography/Headlines',
+  title: 'NM Library/Typography/1. Headlines',
   component: TypographyHeadlinesComponent,
   tags: ['autodocs'],
 };

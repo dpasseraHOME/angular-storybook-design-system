@@ -47,7 +47,7 @@ import { Component } from '@angular/core';
 export class ChartColorPaletteComponent {}
 
 const meta: Meta<ChartColorPaletteComponent> = {
-  title: 'NM Library/Colors/Chart',
+  title: 'NM Library/Colors/5. Chart',
   component: ChartColorPaletteComponent,
   tags: ['autodocs'],
 };

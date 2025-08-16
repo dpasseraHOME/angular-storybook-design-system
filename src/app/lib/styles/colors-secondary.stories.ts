@@ -47,7 +47,7 @@ import { Component } from '@angular/core';
 export class SecondaryColorPaletteComponent {}
 
 const meta: Meta<SecondaryColorPaletteComponent> = {
-  title: 'NM Library/Colors/Secondary',
+  title: 'NM Library/Colors/2. Secondary',
   component: SecondaryColorPaletteComponent,
   tags: ['autodocs'],
 };
